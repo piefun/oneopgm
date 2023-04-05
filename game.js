@@ -1,4 +1,4 @@
-const isBTTC = false;
+const isBTTC = true;
 var timeTokenContractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512";
 var oneopTokenContractAddress = "0x5fbdb2315678afecb367f032d93f642f64180aa3";
 var oneopgmContractAddress = "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9";
